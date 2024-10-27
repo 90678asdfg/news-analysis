@@ -1,0 +1,12 @@
+movies: movie, film, cinema, actor, actress, review
+politics: government, election, minister, policy, law
+health: health, medicine, disease, doctor, hospital
+growth: economy, growth, development, GDP, business
+employment: job, employment, unemployment, work, career
+politics: election, government, parliament
+education: school, college, university
+health: hospital, doctor, medicine
+economy: market, stock, GDP
+narendra modi: Modi, PM Modi, Prime Minister Modi
+president: president, presidential
+cricket: cricket, IPL, cricketer
